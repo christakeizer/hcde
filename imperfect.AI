@@ -1,0 +1,81 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (imperfect.AI)
+%%BoundingBox: 143 272 278 407
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 0 0 0 0
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 255 255 255 Lb
+(Layer 05) Ln
+0 A
+0 R
+1.0000 1.0000 1.0000 XA
+1.0000 1.0000 1.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+277.3410 367.9902 m
+238.3749 406.9563 L
+213.8661 406.9563 L
+213.8661 379.9746 L
+206.4961 379.9746 L
+206.4961 406.9563 L
+183.2685 406.9563 L
+144.3024 367.9902 L
+144.3024 343.4814 L
+171.2841 343.4814 L
+171.2841 336.1113 L
+144.3024 336.1113 L
+144.3024 312.8838 L
+183.2685 273.9176 L
+207.7773 273.9176 L
+207.7773 300.8993 L
+215.1474 300.8993 L
+215.1474 273.9176 L
+238.3749 273.9176 L
+277.3410 312.8838 L
+277.3410 337.3926 L
+250.3594 337.3926 L
+250.3594 344.7626 L
+277.3410 344.7626 L
+277.3410 367.9902 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
