@@ -1,0 +1,64 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>My sad lamp</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h1>Check out my sad lamp!</h1>
+            <p>
+            <img src="IMG_20190501_121335.jpg" height=400></a><br>
+            </p>
+            <p>
+            Here is all the documentation for assignment 2!<br><br>
+                <a href="lamp 2.stl">lamp 2.stl</a><br>
+				<a href="lamp 4.stl">lamp 4.stl</a><br>
+				<a href="walls.ai">walls.ai</a><br>
+				<a href="walls2.3dm">walls2.3dm</a>
+					<a href="walls2.AI">walls2.AI</a>
+				<a href="bottom.stl">bottom.stl</a>
+					<a href="bottom.3dm">bottom.3dm</a>
+				<br><br><br><br>
+                <body> <b> Part 1: Initial concept.</b> Initially I wanted to follow my trend of using hexagons but I realized that I didn't know how to do this in Rhino so I abandoned the idea. Next I was exploring a hula-hoop like lamp idea.
+				  <img src="initial inspo.png" height=400></a><br>
+				  		  <img src="original idea.png" height=400></a><br>
+				  		  <img src="original idea2.png" height=400></a><br>
+
+<img src="original idea 4.png" height=400></a><br>
+	  <img src="original idea 5.png" height=400></a><br>
+	  <img src="original idea 6.png" height=400></a><br>
+				  <img src="first fail.png" height=400></a><br>
+					  <img src="first fail.jpg" height=400></a><br>
+ 				 <img src="first fail 3.png" height=400></a><br>
+  					<img src="first fail 2.png" height=400></a><br>
+<img src="IMG_20190428_172253.jpg" height=400></a><br>
+<body> I thought the print had failed because the arms of the base were not attached, but it was actually support material that was being built. Either way I started over and re-worked my design. Unfortunately the second print failed because it filled material all the way through.<br><br>
+			 			  <img src="failed print.jpg" height=400></a><br>
+
+	  <body> <b> Part 2: Starting from scratch</b> I started over with an idea of doing a very simple design.
+		 			  <img src="sketch1.jpg" height=400></a><br>
+			 			  <img src="sketches.jpg" height=400></a><br>
+ <img src="final idea 4.png" height=400></a><br>
+			  <img src="Screen Shot 2019-05-01 at 12.46.13.png" height=400></a><br>
+	  <img src="laserprintsettings.jpg" height=400></a><br>
+	  <img src="IMG_20190501_121335.jpg" height=400></a><br>
+	  <img src="3mm.jpg" height=400></a><br>
+
+	  <img src="IMG_20190501_121335.jpg" height=400></a><br>
+The final 3D print was not successful, but I ended up with a base. So I glued the pieces together.
+
+	
+ <b>Acknowlegements:</b> Thank you to Joshua and Elizabeth for helping through my Rhino issues, and Nitya for letting me bounce ideas off of her. The MILL student assistants are heroes. D'Marcus, Tyson, and several others who I can't think of right now also helped me!
+                    
+            </p>
+        </div>
+        
+    </body>
+</html>
