@@ -1,0 +1,297 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (walls2.AI)
+%%BoundingBox: -5 -1 385 199
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 0 0 0 0
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+0.0000 170.1197 m
+0.0000 170.0787 L
+4.2520 170.0787 L
+4.2520 198.4252 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+384.0945 85.0999 m
+384.0945 56.6374 L
+375.5693 56.6929 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+384.0945 85.0999 m
+379.8425 85.0999 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+384.0945 0.0000 m
+384.0945 28.3465 L
+379.8425 28.3465 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 0.0000 m
+379.8425 0.0000 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 56.6929 m
+379.8425 56.7534 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 56.6929 m
+375.5693 56.6929 L
+375.5693 28.3465 L
+384.0945 28.3465 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 113.4268 m
+379.8425 113.4463 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+384.0945 113.4463 m
+375.5693 113.4463 L
+375.5693 85.0999 L
+384.0945 85.0999 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 113.4463 m
+379.8425 113.4268 L
+384.0945 113.4268 L
+384.0945 141.7732 L
+379.8425 141.7732 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 170.0787 m
+379.8425 170.1197 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+384.0945 170.1197 m
+375.5693 170.1197 L
+375.5693 141.7732 L
+384.0945 141.7732 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 170.1197 m
+379.8425 170.0787 L
+384.0945 170.0787 L
+384.0945 198.4252 L
+379.8425 198.4252 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 198.4252 m
+189.9213 198.4252 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 56.7534 m
+194.1732 28.1651 L
+189.9213 28.3465 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 113.4268 m
+194.1732 85.0999 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 170.0787 m
+194.1732 141.7732 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+189.9213 28.3465 m
+185.6481 28.3465 L
+185.6481 0.0000 L
+196.1682 0.0000 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 85.0999 m
+185.6481 85.0999 L
+185.6481 56.7534 L
+194.1732 56.7534 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+194.1732 141.7732 m
+185.6481 141.7732 L
+185.6481 113.4268 L
+194.1732 113.4268 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+196.1343 198.4252 m
+185.5797 198.4252 L
+185.5797 170.0787 L
+194.1732 170.0787 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+189.9213 198.4252 m
+4.2520 198.4252 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4.2520 85.0999 m
+4.2520 56.6929 L
+-0.0000 56.6929 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4.2520 113.4463 m
+-4.2732 113.4463 L
+-4.2732 85.0999 L
+4.2520 85.0999 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4.2520 0.0000 m
+4.2520 28.3465 L
+0.0000 28.3465 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4.2520 0.0000 m
+189.9213 0.0000 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+-0.0000 56.6929 m
+-4.2732 56.6929 L
+-4.2732 28.3465 L
+4.2520 28.3465 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+0.0000 113.4463 m
+0.0000 113.4268 L
+4.2520 113.4268 L
+4.2520 141.7732 L
+0.0000 141.7732 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4.2520 170.1197 m
+-4.2732 170.1197 L
+-4.2732 141.7732 L
+4.2520 141.7732 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+379.8425 0.0000 m
+384.0945 0.0000 L
+S
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
