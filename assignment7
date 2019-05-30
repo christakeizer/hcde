@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Check out my final project plans</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h1>Check out my final project plans</h1>
+            <p>
+            <img src="
+IMG_20190524_115222.jpg" height=400></a><br>
+            </p>
+            <p>
+Check out my final project plan <a href="https://docs.google.com/document/d/1giy7Z2VMWuIUmOz9HAIlMZbhNFM2oI2xRNxzBhMMqHE/edit?usp=sharing">here</a>. 
+            </p>
+        </div>
+        
+    </body>
+</html>
